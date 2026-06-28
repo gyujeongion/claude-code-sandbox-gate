@@ -14,6 +14,8 @@ safe to apply.
 
 ---
 
+![sandbox-gate demo](demo/sandbox-gate.gif)
+
 ## Why
 
 The default agent loop is dangerous:
